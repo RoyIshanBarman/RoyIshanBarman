@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoyIshanBarman
-- 👀 I’m interested in Web DEvelopment
+- 👀 I’m interested in AI Development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
